@@ -71,3 +71,12 @@ button:hover {
 .clear {
     color: red;
 }
+
+.purple {
+    background-color: rgb(139, 120, 245);
+}
+
+
+.green {
+    background-color: green;
+}
